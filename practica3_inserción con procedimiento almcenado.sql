@@ -31,7 +31,7 @@ END;
 select * from persona;
 
 -- Tarea
--- porque no es bueno usar INSERT, UPDATE, DELETE.
+-- porque no es bueno usar SELECT,INSERT, UPDATE, DELETE.
 -- Y subirlo al wiki en GitHub.
 
 
