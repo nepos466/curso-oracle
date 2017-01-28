@@ -31,7 +31,8 @@ END;
 select * from persona;
 
 -- Tarea
-
+-- porque no es bueno usar INSERT, UPDATE, DELETE.
+-- Y subirlo al wiki en GitHub.
 
 
 
